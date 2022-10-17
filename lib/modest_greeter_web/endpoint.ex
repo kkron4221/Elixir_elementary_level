@@ -20,7 +20,7 @@ defmodule ModestGreeterWeb.Endpoint do
     at: "/",
     from: :modest_greeter,
     gzip: false,
-    only: ~w(assets fonts images favicon.ico robots.txt)
+    only: ~w(assets fonts images js webfonts favicon.ico robots.txt)
 
   # Code reloading can be explicitly enabled under the
   # :code_reloader configuration of your endpoint.
