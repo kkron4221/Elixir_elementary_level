@@ -1,1 +1,1 @@
-After Remove .git file checkout master
+After Remove .git file master branch
